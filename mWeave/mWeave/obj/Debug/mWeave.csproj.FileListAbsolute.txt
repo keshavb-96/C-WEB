@@ -1,0 +1,15 @@
+c:\users\kamkes\documents\visual studio 2012\Projects\mWeave\mWeave\bin\Debug\mWeave.exe.config
+c:\users\kamkes\documents\visual studio 2012\Projects\mWeave\mWeave\bin\Debug\mWeave.exe
+c:\users\kamkes\documents\visual studio 2012\Projects\mWeave\mWeave\bin\Debug\mWeave.pdb
+c:\users\kamkes\documents\visual studio 2012\Projects\mWeave\mWeave\obj\Debug\mWeave.csprojResolveAssemblyReference.cache
+c:\users\kamkes\documents\visual studio 2012\Projects\mWeave\mWeave\obj\Debug\mWeave.exe
+c:\users\kamkes\documents\visual studio 2012\Projects\mWeave\mWeave\obj\Debug\mWeave.pdb
+D:\HelloTest\mWeave.exe.config
+D:\HelloTest\mWeave.exe
+D:\HelloTest\mWeave.pdb
+D:\Test\mWeave.exe.config
+D:\Test\mWeave.exe
+D:\Test\mWeave.pdb
+D:\C#WEB\mWeave.exe.config
+D:\C#WEB\mWeave.exe
+D:\C#WEB\mWeave.pdb
